@@ -71,6 +71,27 @@ $ ls -la ~/current_obsessions
 
 </div>
 
+<!-- Current Learning -->
+<div align="center">
+
+## ~/learning_path
+
+</div>
+
+<div align="center">
+
+```bash
+$ cat ~/current_focus.txt
+> Currently exploring:
+> Low-level programming & system architecture
+> Web application security & network analysis
+> Mathematics fundamentals via MathAcademy
+> VST plugin development & audio engineering
+> Music theory & digital signal processing
+```
+
+</div>
+
 <!-- GitHub Stats -->
 <div align="center">
 
