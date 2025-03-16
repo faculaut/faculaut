@@ -1,37 +1,95 @@
-# Facundo L. Rodríguez
+<!-- Banner -->
+<div align="center">
+<img src="https://w.wallhaven.cc/full/ex/wallhaven-exkqk8.jpg" width="100%" />
+</div>
 
-Cybersecurity. System programming. The art of breaking and building. As a Computer Science student at UBA, I'm on a mission to master the depths of low-level programming and digital security. Every system has vulnerabilities—some to exploit, others to reinforce. I want to understand both.
+<!-- Terminal Interface -->
+<div align="center">
 
-## Vision
+```bash
+$ ./init_profile.sh
+> Loading Facundo’s digital existence...
+> Establishing secure connection...
+> Access granted.
+```
 
-The digital world runs on trust. But trust is fragile. My focus is on system architecture and cybersecurity—learning how to build resilient software while uncovering the weaknesses that others miss. This isn't just about writing code; it's about understanding the foundations that hold everything together.
+</div>
 
-I'm not here to follow the path—I'm here to carve my own. If you're building something ambitious, securing critical infrastructure, or just looking to push boundaries, let's talk.
+<!-- About Me Section -->
+<div align="center">
 
-## Technical Arsenal
+## ~/whoami
 
-### **Core Languages**
+</div>
+
+<div align="center">
+
+Computer Science student at UBA. Passionate about low-level programming, music production, and cybersecurity. Believing in the power of thinking differently to shape the future.<br>
+
+> The quieter you become, the more you can hear.<br>
+> ~ **Unknown**
+
+</div>
+
+<!-- Tech Stack -->
+<div align="center">
+
+## ~/tech_stack
+
+</div>
+
+<div align="center">
+
+### Core Arsenal
 ![Python](https://skillicons.dev/icons?i=python&theme=dark)
-
-### **Web & Systems**
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![Java](https://skillicons.dev/icons?i=java&theme=light)
-
-### **Toolchain**
-![Git](https://skillicons.dev/icons?i=git)
-![Linux](https://skillicons.dev/icons?i=linux&theme=light)
+![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
 ![Neovim](https://skillicons.dev/icons?i=neovim&theme=dark)
-![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
 
-## Focus Areas
+### Digital Playground
+![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)
+![Java](https://skillicons.dev/icons?i=java&theme=dark)
+![Git](https://skillicons.dev/icons?i=git&theme=dark)
 
-- **Cybersecurity**
-- **Web Development**
-- **Audio Software Development**
-- **Digital Signal Processing**
+</div>
 
-I'm currently seeking collaborations and opportunities in software development roles, particularly those involving cybersecurity or web development.
+<!-- Current Projects -->
+<div align="center">
 
-## Connect
+## ~/projects
 
-[Twitter](https://x.com/faculaut) | Building in Argentina
+</div>
+
+<div align="center">
+
+```bash
+$ ls -la ~/current_obsessions
+> drwxr-xr-x cybersecurity_tools
+> drwxr-xr-x audio_processing_experiments
+> drwxr-xr-x system_exploitation
+> drwxr-xr-x web_security
+```
+
+</div>
+
+<!-- GitHub Stats -->
+<div align="center">
+
+## ~/stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faculaut&show_icons=true&theme=radical)
+</div>
+
+<!-- Social -->
+<div align="center">
+
+## ~/connect
+
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://x.com/faculaut)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/faculaut/)
+
+</div>
+
+<!-- Footer -->
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=faculaut&style=flat-square&color=ff0000" alt="profile views counter"/>
+</div>
