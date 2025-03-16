@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-<img src="https://w.wallhaven.cc/full/ex/wallhaven-exkqk8.jpg" width="60%" />
+<img src="https://w.wallhaven.cc/full/ex/wallhaven-exkqk8.jpg" width="70%" />
 </div>
 
 <!-- Terminal Interface -->
